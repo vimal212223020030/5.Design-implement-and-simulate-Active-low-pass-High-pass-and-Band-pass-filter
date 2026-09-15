@@ -74,33 +74,40 @@ Let Ri = Rf = 10 KΩ
 
 **LPF:**
   **CIRCUIT DIAGRAM**
-
+<img width="1600" height="940" alt="image" src="https://github.com/user-attachments/assets/71fe62ec-43d7-4d0f-8a09-629d2b601dd3" />
 
   **MODEL GRAPH:**
-
+<img width="1594" height="1148" alt="WhatsApp Image 2026-09-14 at 8 19 02 PM" src="https://github.com/user-attachments/assets/6ccd1b92-a986-4c62-9265-d72c6a7d217a" />
 
   **TABULATION:**
- 
-
-
+ <img width="1600" height="1034" alt="image" src="https://github.com/user-attachments/assets/62011a07-bb12-4567-a1d9-cccd655cf0cb" />
+  **GRAPH:**
+  <img width="1600" height="985" alt="image" src="https://github.com/user-attachments/assets/8d9f5772-b1c3-47dc-bee9-e8e088c12557" />
 
 **HPF:**
   **CIRCUIT DIAGRAM**
-
+<img width="1600" height="831" alt="WhatsApp Image 2026-09-14 at 8 21 53 PM" src="https://github.com/user-attachments/assets/e9cb4512-f29b-4a4d-9843-264d237a336e" />
 
   **MODEL GRAPH:**
-
+<img width="1600" height="856" alt="WhatsApp Image 2026-09-14 at 8 22 12 PM" src="https://github.com/user-attachments/assets/737a110b-e346-4ed6-9cff-e765fae0e966" />
 
   **TABULATION:**
+<img width="1403" height="1148" alt="image" src="https://github.com/user-attachments/assets/35b62298-0067-4ffc-b104-3785398291cb" />
+  **GRAPH:**
+  <img width="1600" height="1064" alt="image" src="https://github.com/user-attachments/assets/0b499332-7ca9-476a-aef5-92aa0b094c08" />
 
   **BPF:**
   **CIRCUIT DIAGRAM**
-
+<img width="1442" height="812" alt="image" src="https://github.com/user-attachments/assets/41621e9a-5c8f-4b48-a56e-f97dd4ec67c9" />
 
   **MODEL GRAPH:**
-
+<img width="1583" height="848" alt="image" src="https://github.com/user-attachments/assets/301a440d-c66b-4552-bc81-c11155639c3b" />
 
   **TABULATION:**
+<img width="1288" height="1148" alt="WhatsApp Image 2026-09-14 at 8 26 14 PM" src="https://github.com/user-attachments/assets/5b22b616-7821-42c7-a012-268db3915c99" />
+
+  **GRAPH:**
+  <img width="1600" height="1083" alt="image" src="https://github.com/user-attachments/assets/8d6a2b87-75da-439a-b09f-52239a6a0024" />
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -113,7 +120,13 @@ Let Ri = Rf = 10 KΩ
  
   **LT SPICE**
   **CIRCUIT and Waveform**
-  
+  **HPF**
+  <img width="1771" height="877" alt="(ADAIC) High pas filter" src="https://github.com/user-attachments/assets/d0be201a-9b15-4433-bc06-4a259b1977c9" />
+  **LPF**
+  <img width="1703" height="835" alt="(ADAIC) Low pass filter" src="https://github.com/user-attachments/assets/1aa09c34-043d-43c5-b1a0-233ae688f04b" />
+  **BPF**
+  <img width="1746" height="860" alt="(ADAIC) Band pass filter" src="https://github.com/user-attachments/assets/56e5afec-08ed-49d6-b6f6-986f437736c5" />
+
 
 **RESULT:**
 Thus the Active Low pass, High pass and Band Pass Filters are designed and simulated performance was successfully tested using op-amp IC 741 and LT SPICE.
